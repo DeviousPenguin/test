@@ -1,4 +1,4 @@
-** Klipper config for Longer LK4 Pro
+## Klipper config for Longer LK4 Pro
 
 Note, My printer is not stock. If your printer is stock then it will need tweaking to work.
 
